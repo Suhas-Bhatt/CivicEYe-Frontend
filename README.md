@@ -1,4 +1,6 @@
 #CivicEYe-Frontend
+
+
 CivicEYe-Frontend is a web-based application designed to enhance community engagement and streamline the reporting of civic issues. It provides a user-friendly interface for citizens to report problems, view updates, and interact with local authorities efficiently.
 
 🚀 Features
